@@ -9,7 +9,10 @@
       "c++",
       "git",
       "docker",
-      "database",
+      "database" : [
+        "MSSQL",
+        "SQLite"
+      }
       "java",
       "python",
       "ts",
