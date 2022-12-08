@@ -12,7 +12,7 @@
       "database" : [
         "MSSQL",
         "SQLite"
-      },
+      ],
       "java",
       "python",
       "ts",
