@@ -1,25 +1,13 @@
 ```json
 {
-  "info" : {
-    "name" : "thinhorigami",
-    "target" : [
-      "devops enginner"
-    ],
-    "skills" : [
-      "c++",
-      "git",
-      "docker",
-      "database" : [
-        "MSSQL",
-        "SQLite"
-      ],
-      "java",
-      "python",
-      "ts",
-      "linux",
-      "shell",
-      "algorithm"
-      ]
+  "info": {
+    "name": ["thinhorigami", "NTT"],
+    "skills": {
+      "languages": ["c++", "typescript", "java"],
+      "tools": ["docker", "cmake", "git", "cmake"],
+      "OS": ["windows", "linux"],
+      "databases": ["mysql", "mssql"]
+    }
   }
 }
 ```
