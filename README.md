@@ -4,7 +4,7 @@
     "name": ["thinhorigami", "NTT"],
     "skills": {
       "languages": ["c++", "typescript", "java"],
-      "tools": ["docker", "cmake", "git", "cmake"],
+      "tools": ["docker", "cmake", "git"],
       "OS": ["windows", "linux"],
       "databases": ["mysql", "mssql"]
     }
