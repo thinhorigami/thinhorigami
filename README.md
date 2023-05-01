@@ -3,7 +3,7 @@
   "info": {
     "name": ["thinhorigami", "NTT"],
     "skills": {
-      "languages": ["c++", "typescript", "java"],
+      "languages": ["c++", "typescript", "java", "python"],
       "tools": ["docker", "cmake", "git"],
       "OS": ["windows", "linux"],
       "databases": ["mysql", "mssql"]
