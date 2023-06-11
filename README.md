@@ -4,6 +4,7 @@
     "name": ["thinhorigami", "zt"],
     "skills": {
       "languages": ["c++", "typescript", "java", "python"],
+      "fw": ["spring", "asp.net", "angular"],
       "tools": ["docker", "cmake", "git"],
       "OS": ["windows", "linux"],
       "databases": ["mysql", "mssql"]
