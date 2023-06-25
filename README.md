@@ -7,7 +7,7 @@
       "fw": ["spring", "asp.net", "angular"],
       "tools": ["docker", "cmake", "git"],
       "OS": ["windows", "linux"],
-      "databases": ["mysql", "mssql"]
+      "databases": ["mysql", "mssql", "postgressql"]
     }
   }
 }
