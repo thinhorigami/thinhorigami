@@ -4,10 +4,10 @@
     "name": ["thinhorigami", "zt"],
     "skills": {
       "languages": ["c++", "typescript", "java", "python"],
-      "fw": ["spring", "asp.net", "angular"],
+      "frameworks\libraries": ["spring", "angular", "bootstrap", "materialui", "vite"],
       "tools": ["docker", "cmake", "git"],
       "OS": ["windows", "linux"],
-      "databases": ["mysql", "mssql", "postgressql"]
+      "databases": ["mssql", "postgressql"]
     }
   }
 }
