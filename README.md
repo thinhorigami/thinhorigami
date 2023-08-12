@@ -1,7 +1,7 @@
 ```json
 {
   "info": {
-    "name": ["thinhorigami", "M03W"],
+    "name": ["thinhorigami", "m03w"],
     "skills": {
       "languages": ["c++", "typescript", "java", "python"],
       "frameworks & libraries": ["spring", "angular", "bootstrap", "vite"],
