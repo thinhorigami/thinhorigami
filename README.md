@@ -1,16 +1,31 @@
-```json
-{
-  "info": {
-    "name": ["thinhorigami", "m03w"],
-    "skills": {
-      "languages": ["c++", "typescript", "java", "python"],
-      "frameworks & libraries": ["spring", "angular", "bootstrap", "vite"],
-      "tools": ["docker", "cmake", "git"],
-      "OS": ["windows", "linux"],
-      "databases": ["mssql", "postgressql"]
-    }
-  }
-}
+
+# thinhorigami
+
+```yaml
+  info:
+    name: 
+      - thinhorigami
+      - m03w
+    skills:
+      languages:
+        - c++ (cpp)
+        - typescript (ts)
+        - java (jv)
+        - python (py)
+      frameworks:
+        - spring (java)
+        - angular (ts)
+      tools:
+        - docker
+        - cmake
+        - git
+      os:
+        - linux
+        - windows
+      database:
+        - mssql 
+        - psql
+
 ```
 
 <!---
