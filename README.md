@@ -5,7 +5,7 @@
   info:
     name: 
       - thinhorigami
-      - m03w
+      - m3w
     skills:
       languages:
         - c++ (cpp)
