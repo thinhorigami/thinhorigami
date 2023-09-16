@@ -24,7 +24,7 @@
         - windows
       database:
         - mssql 
-        - psql
+        - pgsql
 
 ```
 
