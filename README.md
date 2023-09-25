@@ -5,7 +5,7 @@
   info:
     name: 
       - thinhorigami
-      - m3w
+      - zely
     skills:
       languages:
         - c++ (cpp)
