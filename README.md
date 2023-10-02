@@ -5,7 +5,7 @@
   info:
     name: 
       - thinhorigami
-      - zely
+      - ori
     skills:
       languages:
         - c++ (cpp)
