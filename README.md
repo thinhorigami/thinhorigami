@@ -1,2 +1,2 @@
 
-# thinhorigami - st-ori
+# thinhorigami - ori-ng
