@@ -1,2 +1,2 @@
 
-# thinhorigami - orix
+# thinhorigami - ori
